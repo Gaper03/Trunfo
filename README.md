@@ -1,11 +1,8 @@
 # Trunfo
 
-Este projeto foi elaborado na disciplina de Programação Orientada a Objetos. Ele consiste em um jogo de cartas famoso, o Trunfo, com tema de políticos brasileiros - tentando manter a imparcialidade, mas com um toque cômico.
+This project was developed for the Object-Oriented Programming course at Universidade de São Paulo (USP). It is an adaptation of a famous card game, called 'Super Trunfo'. This virtual version of the game has a political theme - using brazilian politicians as characters for the cards -, having a comic touch while being impartial.
 
-### Como jogar? 
-Primeiramente, execute o comando: ``pip3 install kivy``
-Em seguida, com o kivy instalado (módulo para rodar interface gráfica), basta rodar o jogo com o comando: ``python3 main.py``
-
-
-### Colaboradores
-Este projeto em grupo contou com a minha presença (Raphael Leveque), além da presença do Gabriel Perão, Pedro Batista e Eduardo Fernandes.
+### How to play? 
+The first step is to execute the command ``pip3 install kivy`` in your terminal.
+Next, after installing 'Kivy' (GUI Library), run the command: ``python3 main.py``.
+Note: you must have Python3 installed in your computer. If you don't have it, click [here](https://www.python.org) to download it.
