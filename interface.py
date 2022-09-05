@@ -1,7 +1,5 @@
 '''
-A interface.py é utilizada para conexão da biblioteca Kivy
-com alguns métodos utilizados no jogo, sendo a responsável
-pelo envio de informações à interface gráfica.
+The classes in this file are responsible for managing what is shown on screen. They are the connection between the game logic and the interface. 
 '''
 from GameManager import GameManager
 from kivy.app import App
